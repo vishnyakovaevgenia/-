@@ -5,7 +5,7 @@ creat table `new sportsman` (
   `Phone` varchar(11) not null,
   `Bith_date` date not null,
   `Biography` text null,
-  `Video` blog null
+  `Video` blob null
 );
 
 SELECT 
